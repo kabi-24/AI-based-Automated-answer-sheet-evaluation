@@ -75,3 +75,17 @@ To evaluate student answers by measuring similarity with model answers using mac
 
 ### Outcome
 Successfully measured semantic similarity between answers, forming the core evaluation logic of the system.
+
+## Day 4 – Question-Wise Evaluation & Mark Allocation
+
+### Objective
+To implement automatic, question-wise answer evaluation and mark allocation.
+
+### Work Done
+- Parsed answers question-wise from model and student sheets
+- Applied keyword matching for 1 mark questions
+- Used TF-IDF and cosine similarity for 3 & 10 mark questions
+- Automatically calculated question-wise and total marks
+
+### Outcome
+The system can now evaluate complete answer sheets fairly and generate structured results.
