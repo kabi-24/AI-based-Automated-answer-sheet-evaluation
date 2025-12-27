@@ -89,3 +89,16 @@ To implement automatic, question-wise answer evaluation and mark allocation.
 
 ### Outcome
 The system can now evaluate complete answer sheets fairly and generate structured results.
+
+## Day 5 – OCR Enhancement and Intelligent Grading
+
+### Objective
+To improve handwritten answer recognition and introduce intelligent grading.
+
+### Work Done
+- Enhanced OCR accuracy using image preprocessing techniques
+- Implemented handling for missing or unattempted questions
+- Introduced grade classification based on score percentage
+
+### Outcome
+The system now supports handwritten answer evaluation with improved accuracy and provides meaningful grade-based feedback.
