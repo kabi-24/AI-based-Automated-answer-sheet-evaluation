@@ -27,16 +27,12 @@ Manual evaluation of answer sheets is time-consuming, inconsistent, and prone to
 - **Scikit-learn** (TF-IDF & Similarity)
 - **Pandas** (Data Management)
 
----
 
 ## Applications
 - Schools and colleges  
 - Online examinations  
 - Practice tests and assessments  
 
----
-
-## Conclusion
 
 ## Day 2 – Data Collection & Preprocessing
 
@@ -102,3 +98,18 @@ To improve handwritten answer recognition and introduce intelligent grading.
 
 ### Outcome
 The system now supports handwritten answer evaluation with improved accuracy and provides meaningful grade-based feedback.
+
+# Day 6 – Accuracy Enhancement using NLP
+
+## Project
+**AI-Based Automated Answer Sheet Evaluation System**
+
+## Objective
+Improve evaluation accuracy using advanced NLP techniques instead of only text similarity.
+
+## Features Added
+- Text preprocessing with lemmatization
+- Keyword extraction using TF-IDF
+- Synonym matching using WordNet
+- Hybrid scoring (similarity + keywords + semantics)
+- Automated AI feedback generation
