@@ -113,3 +113,31 @@ Improve evaluation accuracy using advanced NLP techniques instead of only text s
 - Synonym matching using WordNet
 - Hybrid scoring (similarity + keywords + semantics)
 - Automated AI feedback generation
+
+## Day 7 – Final Submission
+
+## 🎯 Objective
+Complete the project with final integration, testing, documentation, and deployment readiness.
+
+## ✅ Work Done
+
+- Integrated all modules (upload, OCR, evaluation, scoring)
+- Tested with PDF, DOCX, and scanned answer sheets
+- Verified similarity scores and marks output
+- Final UI polish (galaxy-themed, clean layout)
+- Updated documentation and cleaned code
+
+## 🛠️ Tech Stack
+
+- Streamlit (Frontend)
+- Python (Backend)
+- TF-IDF & Cosine Similarity
+- Tesseract OCR (pytesseract)
+
+## 🚀 Run Command
+```bash
+streamlit run app.py
+```
+
+## 📌 Status
+✔ Project completed and ready for submission
