@@ -138,6 +138,9 @@ Complete the project with final integration, testing, documentation, and deploym
 ```bash
 streamlit run app.py
 ```
+## Screenshots
 
-## 📌 Status
-✔ Project completed and ready for submission
+<img width="1920" height="1020" alt="Screenshot 2025-12-29 200521" src="https://github.com/user-attachments/assets/6f5563fc-8873-4ecf-9b5c-1ad8d17aa329" />
+
+<img width="1920" height="1020" alt="Screenshot 2025-12-29 200540" src="https://github.com/user-attachments/assets/9391cb90-1901-4e14-bcba-365adf9fd109" />
+
